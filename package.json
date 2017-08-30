@@ -1,0 +1,22 @@
+{
+  "name": "elfin",
+  "version": "1.0.3",
+  "description": "这是一个常用的JS插件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feinikes/elfin.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Phoenix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feinikes/elfin/issues"
+  },
+  "homepage": "https://github.com/feinikes/elfin#readme"
+}
