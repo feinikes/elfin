@@ -1,32 +1,32 @@
 
-//日期函数操作
-ELFIN.formatTime = formatTime;
-ELFIN.getNowDate = getNowDate;
-ELFIN.formatYMD = formatYMD;
-ELFIN.formatHMS = formatHMS;
-ELFIN.formatWeek = formatWeek;
-ELFIN.formatNumber = formatNumber;
-//localStorage、sessionStorage存储操作
-ELFIN.setLocal = setLocal;
-ELFIN.getLocal = getLocal;
-ELFIN.delLocal = delLocal;
-ELFIN.setSession = setSession;
-ELFIN.getSession = getSession;
-ELFIN.getSessionObj = getSession;
-ELFIN.delSession = delSession;
-ELFIN.delAllSession = delAllSession;
-//数组相关操作
-ELFIN.arrIn = arrIn;
-ELFIN.arrDel = arrDel;
-ELFIN.arrRandom = arrRandom;
-ELFIN.arrRepeat = arrRepeat;
-ELFIN.arrMax = arrMax;
-ELFIN.arrMin = arrMin;
-ELFIN.arrSort = arrSort;
-//字符串相关操作
-ELFIN.strCut = strCut;
-ELFIN.strTrim = strTrim;
-//其他操作
-ELFIN.getSumFunc = getSumFunc;
-ELFIN.toThousands = toThousands;
-ELFIN.reBirtyhday = reBirtyhday;
+#日期函数操作
+formatTime:</br>
+getNowDate:</br>
+formatYMD:</br>
+formatHMS:</br>
+formatWeek:</br>
+formatNumber:</br>
+#localStorage、sessionStorage存储操作
+setLocal:</br>
+getLocal:</br>
+delLocal:</br>
+setSession:</br>
+getSession:</br>
+getSession:</br>
+delSession:</br>
+delAllSession:</br>
+#数组相关操作
+arrIn:</br>
+arrDel:</br>
+arrRandom:</br>
+arrRepeat:</br>
+arrMax:</br>
+arrMin:</br>
+arrSort:</br>
+#字符串相关操作
+strCut:</br>
+strTrim:</br>
+#其他操作
+getSumFunc:</br>
+toThousands:</br>
+reBirtyhday:</br>
